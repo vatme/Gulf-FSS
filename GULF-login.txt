@@ -1,0 +1,14 @@
+PROFILE
+PROFILE:GULF_FSS:1500:1
+ATIS2:Gulf Control - ATC service at FL150 and above if local CTR not online
+ATIS3:ATC for HECC, OJAC, ORBB, OSTT, OLBB, OYSC, OMAE, OOMM, OIIX, OEJD, OBBB and OKAC
+ATIS4:Report Position, Level and Aircraft type on initial contact. Approach services provided on a workload basis for MAJOR airports
+PROFILE:GULF_E_FSS:1500:1
+ATIS2:Gulf Control East - ATC service at FL150 and above if local CTR not online
+ATIS3:ATC for ORBB, OIIX, OKAC, OBBB, OMAE, OOMM
+ATIS4:Report Position, Level and Aircraft type on initial contact. Approach services provided on a workload basis for MAJOR airports
+PROFILE:GULF_W_FSS:1500:1
+ATIS2:Gulf Control West - ATC service at FL150 and above if local CTR not online
+ATIS3:ATC for HECC, OLBB, OSTT, OJAC, OEJD, OYSC
+ATIS4:Report Position, Level and Aircraft type on initial contact. Approach services provided on a workload basis for MAJOR airports
+END
