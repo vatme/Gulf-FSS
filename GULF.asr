@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Syam\Documents\EuroScope\GulfV2\GULF_1106.sct
+SECTORFILE:\GULF_1106.sct
 SECTORTITLE:GULF_1106.sct
 Airports:OABT:name
 Airports:OADY:name
