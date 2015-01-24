@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\GULF_1106.sct
-SECTORTITLE:GULF_1106.sct
+SECTORFILE:GULF.sct
+SECTORTITLE:GULF.sct
 Airports:OABT:name
 Airports:OADY:name
 Airports:OAHR:name
@@ -513,54 +513,6 @@ Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 right base
 Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 right ticks
 Runways:OERK King Khaled Intl 15R-33L:extended centerline 2 right vectoring
 Runways:OERK King Khaled Intl 15R-33L:name
-Runways:OJAI 08L-26R:centerline
-Runways:OJAI 08L-26R:extended centerline 1
-Runways:OJAI 08L-26R:extended centerline 1 left base
-Runways:OJAI 08L-26R:extended centerline 1 left ticks
-Runways:OJAI 08L-26R:extended centerline 1 left vectoring
-Runways:OJAI 08L-26R:extended centerline 1 right base
-Runways:OJAI 08L-26R:extended centerline 1 right ticks
-Runways:OJAI 08L-26R:extended centerline 1 right vectoring
-Runways:OJAI 08L-26R:extended centerline 2
-Runways:OJAI 08L-26R:extended centerline 2 left base
-Runways:OJAI 08L-26R:extended centerline 2 left ticks
-Runways:OJAI 08L-26R:extended centerline 2 left vectoring
-Runways:OJAI 08L-26R:extended centerline 2 right base
-Runways:OJAI 08L-26R:extended centerline 2 right ticks
-Runways:OJAI 08L-26R:extended centerline 2 right vectoring
-Runways:OJAI 08L-26R:name
-Runways:OJAI 08R-26L:centerline
-Runways:OJAI 08R-26L:extended centerline 1
-Runways:OJAI 08R-26L:extended centerline 1 left base
-Runways:OJAI 08R-26L:extended centerline 1 left ticks
-Runways:OJAI 08R-26L:extended centerline 1 left vectoring
-Runways:OJAI 08R-26L:extended centerline 1 right base
-Runways:OJAI 08R-26L:extended centerline 1 right ticks
-Runways:OJAI 08R-26L:extended centerline 1 right vectoring
-Runways:OJAI 08R-26L:extended centerline 2
-Runways:OJAI 08R-26L:extended centerline 2 left base
-Runways:OJAI 08R-26L:extended centerline 2 left ticks
-Runways:OJAI 08R-26L:extended centerline 2 left vectoring
-Runways:OJAI 08R-26L:extended centerline 2 right base
-Runways:OJAI 08R-26L:extended centerline 2 right ticks
-Runways:OJAI 08R-26L:extended centerline 2 right vectoring
-Runways:OJAI 08R-26L:name
-Runways:OJAQ 01-19:centerline
-Runways:OJAQ 01-19:extended centerline 1
-Runways:OJAQ 01-19:extended centerline 1 left base
-Runways:OJAQ 01-19:extended centerline 1 left ticks
-Runways:OJAQ 01-19:extended centerline 1 left vectoring
-Runways:OJAQ 01-19:extended centerline 1 right base
-Runways:OJAQ 01-19:extended centerline 1 right ticks
-Runways:OJAQ 01-19:extended centerline 1 right vectoring
-Runways:OJAQ 01-19:extended centerline 2
-Runways:OJAQ 01-19:extended centerline 2 left base
-Runways:OJAQ 01-19:extended centerline 2 left ticks
-Runways:OJAQ 01-19:extended centerline 2 left vectoring
-Runways:OJAQ 01-19:extended centerline 2 right base
-Runways:OJAQ 01-19:extended centerline 2 right ticks
-Runways:OJAQ 01-19:extended centerline 2 right vectoring
-Runways:OJAQ 01-19:name
 Runways:OKBK Kuwait Intl 15L-33R:centerline
 Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1
 Runways:OKBK Kuwait Intl 15L-33R:extended centerline 1 left base
@@ -1707,5 +1659,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-TAGFAMILY:Matias (built in)
-WINDOWAREA:5.657511:11.978365:39.849970:95.104679
+TAGFAMILY:GSiT
+WINDOWAREA:7.852465:9.559028:44.493514:92.788225
